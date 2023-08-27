@@ -1,0 +1,22 @@
+C:\Users\Şafak Şahin\Desktop\MesajProje\MesajProje\bin\Debug\MesajProje.exe.config
+C:\Users\Şafak Şahin\Desktop\MesajProje\MesajProje\bin\Debug\MesajProje.exe
+C:\Users\Şafak Şahin\Desktop\MesajProje\MesajProje\bin\Debug\MesajProje.pdb
+C:\Users\Şafak Şahin\Desktop\MesajProje\MesajProje\obj\Debug\MesajProje.csproj.AssemblyReference.cache
+C:\Users\Şafak Şahin\Desktop\MesajProje\MesajProje\obj\Debug\MesajProje.Form1.resources
+C:\Users\Şafak Şahin\Desktop\MesajProje\MesajProje\obj\Debug\MesajProje.Form2.resources
+C:\Users\Şafak Şahin\Desktop\MesajProje\MesajProje\obj\Debug\MesajProje.Properties.Resources.resources
+C:\Users\Şafak Şahin\Desktop\MesajProje\MesajProje\obj\Debug\MesajProje.csproj.GenerateResource.cache
+C:\Users\Şafak Şahin\Desktop\MesajProje\MesajProje\obj\Debug\MesajProje.csproj.CoreCompileInputs.cache
+C:\Users\Şafak Şahin\Desktop\MesajProje\MesajProje\obj\Debug\MesajProje.exe
+C:\Users\Şafak Şahin\Desktop\MesajProje\MesajProje\obj\Debug\MesajProje.pdb
+C:\Users\Şafak Şahin\Desktop\C# proje\MesajProje\MesajProje\bin\Debug\MesajProje.exe.config
+C:\Users\Şafak Şahin\Desktop\C# proje\MesajProje\MesajProje\bin\Debug\MesajProje.exe
+C:\Users\Şafak Şahin\Desktop\C# proje\MesajProje\MesajProje\bin\Debug\MesajProje.pdb
+C:\Users\Şafak Şahin\Desktop\C# proje\MesajProje\MesajProje\obj\Debug\MesajProje.csproj.AssemblyReference.cache
+C:\Users\Şafak Şahin\Desktop\C# proje\MesajProje\MesajProje\obj\Debug\MesajProje.Form1.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\MesajProje\MesajProje\obj\Debug\MesajProje.Form2.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\MesajProje\MesajProje\obj\Debug\MesajProje.Properties.Resources.resources
+C:\Users\Şafak Şahin\Desktop\C# proje\MesajProje\MesajProje\obj\Debug\MesajProje.csproj.GenerateResource.cache
+C:\Users\Şafak Şahin\Desktop\C# proje\MesajProje\MesajProje\obj\Debug\MesajProje.csproj.CoreCompileInputs.cache
+C:\Users\Şafak Şahin\Desktop\C# proje\MesajProje\MesajProje\obj\Debug\MesajProje.exe
+C:\Users\Şafak Şahin\Desktop\C# proje\MesajProje\MesajProje\obj\Debug\MesajProje.pdb
